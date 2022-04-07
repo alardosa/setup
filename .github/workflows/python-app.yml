@@ -37,3 +37,5 @@ jobs:
     - name: Test with pytest
       run: |
         python -m pytest
+    - name: Comment coverage
+      uses: coroo/pytest-coverage-commentator@v1.0.2
