@@ -15,6 +15,7 @@ This is the supplementary cheat sheet document for our course: [Build a Backend 
 - [Django Management Commands](#django-management-commands)
 - [Terminal / GitBash Commands](#terminal-gitbash-commands)
 - [ModHeader](#modheader)
+- [Tutorials](#tutorials)
 
 <!-- /TOC -->
 ## Installations
@@ -203,14 +204,14 @@ docker-compose run app sh -c "django-admin.py startproject app ."
 
 ## Github Actions
 ```
-
+Vreate New
 https://github.com/alardosa/cheatsheet/actions/new
-
-
 
 Infos:
 https://docs.github.com/en/actions
-https://www.youtube.com/watch?v=R8_veQiYBjI
+
+Tutorial
+https://www.youtube.com/watch?v=oi94qEvi9Qo&list=PL0dOL8Z7pG3J6t1pqRQiNarBGY-ZnIJcq
 ```
 
 
@@ -277,4 +278,9 @@ cd ..
 ## ModHeader
 ```
 Download and Install: https://chrome.google.com/webstore/detail/modheader/idgpnmonknjnojddfkpgkljpfnnfcklj?hl=en
+```
+## Tutorials
+```
+Programming
+https://www.youtube.com/channel/UCTebDgj-GzOh3zo9Xf1vO4A/playlists
 ```
